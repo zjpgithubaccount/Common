@@ -1,0 +1,5 @@
+/*getStatusItem*/
+SELECT *
+FROM status_item s
+WHERE 1=1
+$[AND s.status_type_id = @statusTypeId]
