@@ -3,7 +3,7 @@
 /*.project
 /tmp/
 /.settings/
-*.DS_Store
+*.DS_Storegit
 /target
 /.idea/
 *.iml
